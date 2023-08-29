@@ -1,4 +1,4 @@
-<h4 align="left">Salutations! My name is Beatrice, and I've always been fascinated by Technology.</h4>
+<h4 align="left">Salutations — My name is Beatrice, and I've always been fascinated by Technology.</h4>
 
 ###
 
