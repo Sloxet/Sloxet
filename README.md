@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Sloxet/Sloxet/blob/main/Banner.png?raw=true" title="Personal Banner" alt="Personal Banner" width="150">
+<img src="https://raw.github.com/Sloxet/Sloxet/main/Banner.svg" title="Personal Banner" alt="Personal Banner" width="150">
 <br><br>
 During my early years, I had gone undiagnosed with High-Functioning Autism, which means that I learn and understanding things differently. Consequently, I was given an education which didn't accommodate my needs, and I remained disinterested in my school subjects. Instead, I dedicated the entirety of my time to learning the intricacies of computers and electronics. Because of my own discoveries and a deep passion for computer science, I acquired enough skills to leave high school. Thereafter, I would kickstart my own technology company, Vorteer Technologies Ltd.
 <br><br>
